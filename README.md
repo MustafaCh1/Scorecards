@@ -23,6 +23,8 @@ A react native application you can use to score Boxing/MMA fights
 <video src="https://github.com/user-attachments/assets/2059e19b-70c2-4091-8e23-6e6019e1ebd1" controls="controls" style="max-width: 730px;">
 </video>
 
+**THIS PAGE IS STILL UNDER DEVELOPMENT**
+
 
 
 
